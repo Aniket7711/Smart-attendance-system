@@ -1,0 +1,8 @@
+{
+  "name": "OmniPresence - AI Smart Attendance",
+  "description": "A cutting-edge college attendance system leveraging Gemini AI for face verification, geolocation fencing, and real-time classroom analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
